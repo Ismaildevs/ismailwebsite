@@ -1,0 +1,96 @@
+.sidebar{
+
+position: fixed;
+top: 40px;
+left: 0;
+width: 50px;
+bottom: 0;
+padding-top: 20px;
+z-index: 50;
+}
+.b11{
+position: relative;
+left: 5px;
+margin-bottom: 20px;
+margin-top: 2;
+height: 55px;
+width: 55px;
+}
+.home{
+margin-top: 20px;
+margin-left: 11px;
+width: 24px;
+
+}
+.explore{
+    margin-top: 15px;
+    margin-left: 11px;
+width: 24px;
+}
+.subscriptions{
+    margin-top: 15px;
+    margin-left: 13px;
+width: 24px;
+}
+.originals{
+    margin-top: 15px;
+    margin-left: 13px;
+width: 24px;
+}
+.youtube-music{
+    margin-top: 15px;
+    margin-left: 13px;
+width: 24px;
+}
+.library{
+    margin-top: 15px;
+    margin-left: 13px;
+width: 24px;
+}
+.para{
+    font-size: 10px;
+    position: absolute;
+    top: 34px;
+    left: 11px;
+}
+.para1{
+    font-size: 10px;
+    position: absolute;
+    top: 30px;
+    left: 8px;
+    }
+.para2{
+    font-size: 10px;
+    position: absolute;
+    top: 29px;
+    left: 0px;
+    margin-right: 10px;
+ }
+ .para3{
+    font-size: 10px;
+    position: absolute;
+    top: 27px;
+    left: 6px;
+     }
+     .para4{
+        font-size: 10px;
+        position: absolute;
+        top: 30px;
+        left: 0px;
+        width: 70px;
+        padding-right: 10px;
+         }
+         .para5{
+            font-size: 10px;
+            position: absolute;
+            top: 30px;
+            left: 10px;
+            width: 50px;
+             }
+        .b11:hover{
+            background-color: rgb(207, 209, 209);
+            cursor: pointer;
+    
+        }
+
+          
